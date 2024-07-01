@@ -58,7 +58,7 @@ All materials are available in google docs
 
 [27. SQL Quick Reference Guide](https://docs.google.com/document/d/1K7ylPtAC0F9V5dP_UX8w7II8P77oLh7CyZM1T-TYZiI/edit#heading=h.rw0cnaan3ro7)
 
-
+[28. Collation in SQL Server](https://docs.google.com/document/d/1X2E_lceihyhoACSrKXeZqf_tytOItSYRQ7wF2lbbIKg/edit#heading=h.kkabt6297bvb)
 
 References for Database Ranking
 
