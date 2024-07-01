@@ -4,7 +4,7 @@
 
 [Database/ SQL Writing Standards & Best Practices [SQL Server]](https://docs.google.com/document/d/19KFb12PFvnvCchlJvmpYFQ2ZG_Y7yAbQV_w3Uigm3os/edit)
 
-[Coding Standards & SQL Formatting Best Practices in SQL [SQL Server / MySQL]](https://docs.google.com/document/d/1E8izhR904W0goZusIGvLCcKIiH4ZevdG6GCEOIqKTgg/edit)
+[Coding Standards & SQL Formatting Best Practices in SQL [SQL Server]](https://docs.google.com/document/d/1E8izhR904W0goZusIGvLCcKIiH4ZevdG6GCEOIqKTgg/edit)
 
 [Create, Modify, Delete and List Databases using SQL Commands [SQL Server / MySQL]](https://docs.google.com/document/d/1JLCxrEMukvj41mSqrHDIqDAVOFi_uufvKC42w8S_u_o/edit?usp=sharing)
 
