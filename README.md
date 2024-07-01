@@ -8,7 +8,7 @@ All materials are available in google docs
 
 [1. Database/ SQL Writing Standards & Best Practices [SQL Server]](https://docs.google.com/document/d/19KFb12PFvnvCchlJvmpYFQ2ZG_Y7yAbQV_w3Uigm3os/edit)
 
-[2. Coding Standards & SQL Formatting Best Practices in SQL [SQL Server]](https://docs.google.com/document/d/1E8izhR904W0goZusIGvLCcKIiH4ZevdG6GCEOIqKTgg/edit)
+[2. Data Types in SQL](https://docs.google.com/document/d/1IX36qTQTxycYInq2-xb6lZlcjgrg4Weg2M4k9xKt3dE/edit)
 
 [3. Syntax in SQL [SQL Server / MySQL]](https://docs.google.com/document/d/1weO_j7fpsPWV27rMB9_oecytd6gk_VTaFwaSKu7QrDI/edit#heading=h.rw0cnaan3ro7)
 
