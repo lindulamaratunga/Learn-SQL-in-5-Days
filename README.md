@@ -5,7 +5,7 @@ All materials are available in google docs
 [Installation & Configure SQL Server]
 (https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 
-[Install SQL Server Management Studio(SSMS) (It is a tool to manage SQL Server)](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15)
+[Install SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15)
 
 [1. Database/ SQL Writing Standards & Best Practices [SQL Server]](https://docs.google.com/document/d/19KFb12PFvnvCchlJvmpYFQ2ZG_Y7yAbQV_w3Uigm3os/edit)
 
