@@ -22,7 +22,7 @@ All materials are available in google docs
 
 [9. With Statement [SQL Server]](https://docs.google.com/document/d/1kMPSJf5J1q6ipE-A0ovhMeJA_u26AVD_IJ_LIh2qjwk/edit#heading=h.yo7sozfqzazg)
 
-[10. CROSS APPLY & OUTER APPLY](https://docs.google.com/document/d/1jbWfhvmz4UudN3raL0I8EpOO7X9bLrbNzMFlb0kJk_w/edit#heading=h.rw0cnaan3ro7)
+[10. CROSS APPLY & OUTER APPLY [SQL Server]](https://docs.google.com/document/d/1jbWfhvmz4UudN3raL0I8EpOO7X9bLrbNzMFlb0kJk_w/edit#heading=h.rw0cnaan3ro7)
 
 [11. Min Max [SQL Server / MySQL]](https://docs.google.com/document/d/13U2fS-OGMpkIiiu5QQq28lUoMzGitseXE2bcedNZ8tw/edit)
 
