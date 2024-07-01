@@ -30,7 +30,7 @@ All materials are available in google docs
 
 [12. Conditional Statements in SQL [SQL Server]](https://docs.google.com/document/d/1VKPgWzDl5MpVdqKVI-pjYo5qEYrWmKzP35V1-GJw_-M/edit#heading=h.lqhsnvltkikq)
 
-[13. SQL Example [SQL Server / MySQL]](https://docs.google.com/document/d/1E8LnT6bB1XQlwINiz6-ym482kPwMgZ-HAEh1EY9xVbs/edit)
+[13. COUNT and SUM IN SQL [SQL Server / MySQL]](https://docs.google.com/document/d/1E8LnT6bB1XQlwINiz6-ym482kPwMgZ-HAEh1EY9xVbs/edit)
 
 [14. Functions in SQL [SQL Server]](https://docs.google.com/document/d/1pLOwYKh9nczsf99VrMiw3KPCApAOCGX9YqzYrncO8CI/edit#heading=h.xn2iwv9fio66)
 
