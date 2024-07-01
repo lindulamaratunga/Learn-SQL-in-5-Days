@@ -1,4 +1,4 @@
-# Learn SQL in One Day
+# Learn SQL in 3 Days
 
 [SQL Quick Reference [SQL Server / MySQL]](https://docs.google.com/document/d/16rqD6Enxii_Y5aSs7Hz5_CM3CnNGzYqgRA5OeiKU5HQ/edit#heading=h.rw0cnaan3ro7)
 
