@@ -1,4 +1,4 @@
-# Learn SQL in 3 Days [SQL Server / MySQL]
+# Learn SQL in 5 Days [SQL Server / MySQL]
 All materials are available in google docs
 (Most of the lessons support both SQL Server and MySQL)
 
