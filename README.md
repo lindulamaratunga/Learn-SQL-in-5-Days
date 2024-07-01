@@ -46,7 +46,7 @@ All materials are available in google docs
 
 [21. CONCAT & Split a String in SQL](https://docs.google.com/document/d/1y43HN0mT3QoMWRYEF1cZHruEg74S4cMrmo7ePu6wpYo/edit#heading=h.llk2dq67afk4)
 
-[22. Text Formatting in SQL Server [SQL Server]](https://docs.google.com/document/d/1NTNZqkPjEeoDCfe3swgaxsooG_X8HqnolGmDneGfWAE/edit#heading=h.ev9tjxnqvrqn)
+[22. Text Formatting in SQL [SQL Server]](https://docs.google.com/document/d/1NTNZqkPjEeoDCfe3swgaxsooG_X8HqnolGmDneGfWAE/edit#heading=h.ev9tjxnqvrqn)
 
 [23. ISNULL in SQL](https://docs.google.com/document/d/1tTXg7Tb-vleR3DjefPSqxFoFvK54pPOFcI43U8nOCPU/edit#heading=h.ev9tjxnqvrqn)
 
