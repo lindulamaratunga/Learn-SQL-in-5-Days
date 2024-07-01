@@ -21,7 +21,7 @@
 
 [Min Max [SQL Server / MySQL]](https://docs.google.com/document/d/13U2fS-OGMpkIiiu5QQq28lUoMzGitseXE2bcedNZ8tw/edit)
 
-[Stored Procedures Functions and Triggers [SQL Server / MySQL]](https://docs.google.com/document/d/1ZLLKn6K5fJe6vo1lx-kvIPE78wuW7-6QxGpvjg4rzRg/edit#)
+[Stored Procedures Functions and Triggers [SQL Server]](https://docs.google.com/document/d/1ZLLKn6K5fJe6vo1lx-kvIPE78wuW7-6QxGpvjg4rzRg/edit#)
 
 [Refer Below link for extra lessons in SQL [SQL Server / MySQL]](https://docs.google.com/spreadsheets/d/1UsFt43_5B2z1c3sQJEFMPB4mG65g30fXCvrVUo4ZNDw/edit#gid=0)
 
