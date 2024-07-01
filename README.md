@@ -8,15 +8,13 @@ All materials are available in google docs
 
 [3. Syntax in SQL [SQL Server / MySQL]](https://docs.google.com/document/d/1weO_j7fpsPWV27rMB9_oecytd6gk_VTaFwaSKu7QrDI/edit#heading=h.rw0cnaan3ro7)
 
-[4. Create Modify Delete and List Tables using SQL Commands](https://docs.google.com/document/d/1rt5CuOVzVkpd74ePmk7MbnR8dM1OykjmWbnekrNkXbI/edit#heading=h.y7jp32e8jgaf)
+[4. Create, Modify, Delete and List Tables using SQL Commands](https://docs.google.com/document/d/1rt5CuOVzVkpd74ePmk7MbnR8dM1OykjmWbnekrNkXbI/edit#heading=h.y7jp32e8jgaf)
 
 [5. DESC and ASC in SQL [SQL Server / MySQL]](https://docs.google.com/document/d/19AR-_RsKK8BM61d5MDhMthYPzO9jPCV5SLjB8Raom6M/edit)
 
+[6. How to Join Two tables [SQL Server / MySQL]](https://docs.google.com/document/d/1hMVjj2EBMvk1zE0bcA5Mb0cdC6QXkqlo_gz2i_lo9w8/edit)
 
-
-[6. Two table joins [SQL Server / MySQL]](https://docs.google.com/document/d/1hMVjj2EBMvk1zE0bcA5Mb0cdC6QXkqlo_gz2i_lo9w8/edit)
-
-[7. Three table joins [SQL Server / MySQL]](https://docs.google.com/document/d/1Rmua-w8L8Lk3cR-fs8ft8TEkg9VPZMhBd3u-iU-7OrI/edit)
+[7. How to Join Three tables [SQL Server / MySQL]](https://docs.google.com/document/d/1Rmua-w8L8Lk3cR-fs8ft8TEkg9VPZMhBd3u-iU-7OrI/edit)
 
 [8. Min Max [SQL Server / MySQL]](https://docs.google.com/document/d/13U2fS-OGMpkIiiu5QQq28lUoMzGitseXE2bcedNZ8tw/edit)
 
