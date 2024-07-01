@@ -50,7 +50,7 @@ All materials are available in google docs
 
 [22. Text Formatting in SQL Server [SQL Server]](https://docs.google.com/document/d/1NTNZqkPjEeoDCfe3swgaxsooG_X8HqnolGmDneGfWAE/edit#heading=h.ev9tjxnqvrqn)
 
-[23. ]()
+[23. ISNULL in SQL](https://docs.google.com/document/d/1tTXg7Tb-vleR3DjefPSqxFoFvK54pPOFcI43U8nOCPU/edit#heading=h.ev9tjxnqvrqn)
 
 [24. ]()
 
