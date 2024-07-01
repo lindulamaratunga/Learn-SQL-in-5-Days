@@ -1,7 +1,6 @@
 # Learn SQL in One Day
 
-SQL Quick Reference
-(https://docs.google.com/document/d/16rqD6Enxii_Y5aSs7Hz5_CM3CnNGzYqgRA5OeiKU5HQ/edit#heading=h.rw0cnaan3ro7)
+[SQL Quick Reference](https://docs.google.com/document/d/16rqD6Enxii_Y5aSs7Hz5_CM3CnNGzYqgRA5OeiKU5HQ/edit#heading=h.rw0cnaan3ro7)
 
 Database/ SQL Writing Standards & Best Practices
 https://docs.google.com/document/d/19KFb12PFvnvCchlJvmpYFQ2ZG_Y7yAbQV_w3Uigm3os/edit
