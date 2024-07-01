@@ -20,11 +20,19 @@ All materials are available in google docs
 
 [7. How to Join Three tables [SQL Server / MySQL]](https://docs.google.com/document/d/1Rmua-w8L8Lk3cR-fs8ft8TEkg9VPZMhBd3u-iU-7OrI/edit)
 
+[Self Join in SQL](https://docs.google.com/document/d/1BUbutUqejXvhm4Rylg1YipeLzfSM2X7KenMnSUKQz3A/edit#heading=h.jbfa5v2p6h25)
+
 [8. Min Max [SQL Server / MySQL]](https://docs.google.com/document/d/13U2fS-OGMpkIiiu5QQq28lUoMzGitseXE2bcedNZ8tw/edit)
+
+[Conditional Statements in SQL](https://docs.google.com/document/d/1VKPgWzDl5MpVdqKVI-pjYo5qEYrWmKzP35V1-GJw_-M/edit#heading=h.lqhsnvltkikq)
 
 [9. SQL Example [SQL Server / MySQL]](https://docs.google.com/document/d/1E8LnT6bB1XQlwINiz6-ym482kPwMgZ-HAEh1EY9xVbs/edit)
 
 [10. Stored Procedures, Functions, Views and Triggers [SQL Server]](https://docs.google.com/document/d/1ZLLKn6K5fJe6vo1lx-kvIPE78wuW7-6QxGpvjg4rzRg/edit#)
+
+[Sub Queries in SQL](https://docs.google.com/document/d/1pZogRU8TIl6qAipMXnZIafS7EkShl71f5x4TosIP3w0/edit#heading=h.qosr1jbkpsbs)
+
+
 
 
 
