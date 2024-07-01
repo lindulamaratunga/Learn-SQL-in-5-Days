@@ -10,7 +10,7 @@ All materials are available in google docs
 
 
 Create Modify Delete and List Tables using SQL Commands
-https://docs.google.com/document/d/1rt5CuOVzVkpd74ePm
+(https://docs.google.com/document/d/1rt5CuOVzVkpd74ePmk7MbnR8dM1OykjmWbnekrNkXbI/edit#heading=h.y7jp32e8jgaf)
 
 [5. DESC and ASC in SQL [SQL Server / MySQL]](https://docs.google.com/document/d/19AR-_RsKK8BM61d5MDhMthYPzO9jPCV5SLjB8Raom6M/edit)
 
