@@ -36,7 +36,7 @@ All materials are available in google docs
 
 [15. Stored Procedures [SQL Server]](https://docs.google.com/document/d/1Nn9vFIDKcLyrrK9nXYpgWqQglx0qS8Sy3hmidI_3_R4/edit#heading=h.xn2iwv9fio66)
 
-[16. Triggers in SQL [SQL Server](https://docs.google.com/document/d/14nSVL9_glwykeQqDFs2CTwywk_lzz_H202ZAfiPmoxs/edit#heading=h.b648y4t8yuqa)
+[16. Triggers in SQL [SQL Server]](https://docs.google.com/document/d/14nSVL9_glwykeQqDFs2CTwywk_lzz_H202ZAfiPmoxs/edit#heading=h.b648y4t8yuqa)
 
 [17. Sub Queries in SQL [SQL Server]](https://docs.google.com/document/d/1pZogRU8TIl6qAipMXnZIafS7EkShl71f5x4TosIP3w0/edit#heading=h.qosr1jbkpsbs)
 
