@@ -28,7 +28,7 @@
 [Refer Below link for extra lessons in SQL [SQL Server / MySQL]](https://docs.google.com/spreadsheets/d/1UsFt43_5B2z1c3sQJEFMPB4mG65g30fXCvrVUo4ZNDw/edit#gid=0)
 
 
-References for database ranking
+References for Database Ranking
 
 [DB-Engines Ranking](https://db-engines.com/en/ranking)
 
