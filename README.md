@@ -32,9 +32,11 @@ All materials are available in google docs
 
 [13. SQL Example [SQL Server / MySQL]](https://docs.google.com/document/d/1E8LnT6bB1XQlwINiz6-ym482kPwMgZ-HAEh1EY9xVbs/edit)
 
+[14. Functions in SQL](https://docs.google.com/document/d/1pLOwYKh9nczsf99VrMiw3KPCApAOCGX9YqzYrncO8CI/edit#heading=h.xn2iwv9fio66)
+
 [15. Stored Procedures](https://docs.google.com/document/d/1Nn9vFIDKcLyrrK9nXYpgWqQglx0qS8Sy3hmidI_3_R4/edit#heading=h.xn2iwv9fio66)
 
-[14. Sub Queries in SQL](https://docs.google.com/document/d/1pZogRU8TIl6qAipMXnZIafS7EkShl71f5x4TosIP3w0/edit#heading=h.qosr1jbkpsbs)
+[17. Sub Queries in SQL](https://docs.google.com/document/d/1pZogRU8TIl6qAipMXnZIafS7EkShl71f5x4TosIP3w0/edit#heading=h.qosr1jbkpsbs)
 
 
 
