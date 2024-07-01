@@ -22,11 +22,11 @@ All materials are available in google docs
 
 [8. Self Join in SQL](https://docs.google.com/document/d/1BUbutUqejXvhm4Rylg1YipeLzfSM2X7KenMnSUKQz3A/edit#heading=h.jbfa5v2p6h25)
 
-[9. Min Max [SQL Server / MySQL]](https://docs.google.com/document/d/13U2fS-OGMpkIiiu5QQq28lUoMzGitseXE2bcedNZ8tw/edit)
+[9. With Statement in SQL](https://docs.google.com/document/d/1kMPSJf5J1q6ipE-A0ovhMeJA_u26AVD_IJ_LIh2qjwk/edit#heading=h.yo7sozfqzazg)
 
-[10. SQL Built-in Functions](https://docs.google.com/document/d/1WLX48WSq7-2BXkgNP-gt0ISBp6-VmGYslGM79abZLgQ/edit#heading=h.m267p86dt09v)
+[10. Min Max [SQL Server / MySQL]](https://docs.google.com/document/d/13U2fS-OGMpkIiiu5QQq28lUoMzGitseXE2bcedNZ8tw/edit)
 
-[11. Stored Procedures](https://docs.google.com/document/d/1Nn9vFIDKcLyrrK9nXYpgWqQglx0qS8Sy3hmidI_3_R4/edit#heading=h.xn2iwv9fio66)
+[11. SQL Built-in Functions](https://docs.google.com/document/d/1WLX48WSq7-2BXkgNP-gt0ISBp6-VmGYslGM79abZLgQ/edit#heading=h.m267p86dt09v)
 
 [12. Conditional Statements in SQL](https://docs.google.com/document/d/1VKPgWzDl5MpVdqKVI-pjYo5qEYrWmKzP35V1-GJw_-M/edit#heading=h.lqhsnvltkikq)
 
