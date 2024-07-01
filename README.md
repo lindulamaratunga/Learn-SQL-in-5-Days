@@ -40,6 +40,7 @@ All materials are available in google docs
 
 [17. Sub Queries in SQL [SQL Server]](https://docs.google.com/document/d/1pZogRU8TIl6qAipMXnZIafS7EkShl71f5x4TosIP3w0/edit#heading=h.qosr1jbkpsbs)
 
+[20. Transactions in SQL [SQL Server]](https://docs.google.com/document/d/1eTbOwEw8iUeRzo-BUeCak5bi2z63gFNBKJ2MdcLVICg/edit#heading=h.1jc8ou7fr4xu)
 
 
 
