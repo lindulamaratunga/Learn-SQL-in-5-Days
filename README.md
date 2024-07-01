@@ -1,8 +1,6 @@
 # Learn SQL in 3 Days [SQL Server / MySQL]
 All materials are available in google docs
 
-[SQL Quick Reference [SQL Server / MySQL]](https://docs.google.com/document/d/16rqD6Enxii_Y5aSs7Hz5_CM3CnNGzYqgRA5OeiKU5HQ/edit#heading=h.rw0cnaan3ro7)
-
 [1. Database/ SQL Writing Standards & Best Practices [SQL Server]](https://docs.google.com/document/d/19KFb12PFvnvCchlJvmpYFQ2ZG_Y7yAbQV_w3Uigm3os/edit)
 
 [2. Coding Standards & SQL Formatting Best Practices in SQL [SQL Server]](https://docs.google.com/document/d/1E8izhR904W0goZusIGvLCcKIiH4ZevdG6GCEOIqKTgg/edit)
