@@ -24,37 +24,41 @@ All materials are available in google docs
 
 [10. CROSS APPLY & OUTER APPLY in SQL](https://docs.google.com/document/d/1jbWfhvmz4UudN3raL0I8EpOO7X9bLrbNzMFlb0kJk_w/edit#heading=h.rw0cnaan3ro7)
 
-[10. Min Max [SQL Server / MySQL]](https://docs.google.com/document/d/13U2fS-OGMpkIiiu5QQq28lUoMzGitseXE2bcedNZ8tw/edit)
+[11. Min Max [SQL Server / MySQL]](https://docs.google.com/document/d/13U2fS-OGMpkIiiu5QQq28lUoMzGitseXE2bcedNZ8tw/edit)
 
-[11. SQL Built-in Functions [SQL Server]](https://docs.google.com/document/d/1WLX48WSq7-2BXkgNP-gt0ISBp6-VmGYslGM79abZLgQ/edit#heading=h.m267p86dt09v)
+[12. SQL Built-in Functions [SQL Server]](https://docs.google.com/document/d/1WLX48WSq7-2BXkgNP-gt0ISBp6-VmGYslGM79abZLgQ/edit#heading=h.m267p86dt09v)
 
-[12. Conditional Statements in SQL [SQL Server]](https://docs.google.com/document/d/1VKPgWzDl5MpVdqKVI-pjYo5qEYrWmKzP35V1-GJw_-M/edit#heading=h.lqhsnvltkikq)
+[13. Conditional Statements in SQL [SQL Server]](https://docs.google.com/document/d/1VKPgWzDl5MpVdqKVI-pjYo5qEYrWmKzP35V1-GJw_-M/edit#heading=h.lqhsnvltkikq)
 
-[13. COUNT and SUM IN SQL [SQL Server / MySQL]](https://docs.google.com/document/d/1E8LnT6bB1XQlwINiz6-ym482kPwMgZ-HAEh1EY9xVbs/edit)
+[14. COUNT and SUM IN SQL [SQL Server / MySQL]](https://docs.google.com/document/d/1E8LnT6bB1XQlwINiz6-ym482kPwMgZ-HAEh1EY9xVbs/edit)
 
-[14. Functions in SQL [SQL Server]](https://docs.google.com/document/d/1pLOwYKh9nczsf99VrMiw3KPCApAOCGX9YqzYrncO8CI/edit#heading=h.xn2iwv9fio66)
+[15. UNION in SQL [SQL Server / MySQL]](https://docs.google.com/document/d/1kTAHWfP1zR11uHcyS85OpYj1zcOfQkvgmrhKmO4O-DY/edit#heading=h.boxdozb1w53)
 
-[15. Stored Procedures [SQL Server]](https://docs.google.com/document/d/1Nn9vFIDKcLyrrK9nXYpgWqQglx0qS8Sy3hmidI_3_R4/edit#heading=h.xn2iwv9fio66)
+[16. Functions in SQL [SQL Server]](https://docs.google.com/document/d/1pLOwYKh9nczsf99VrMiw3KPCApAOCGX9YqzYrncO8CI/edit#heading=h.xn2iwv9fio66)
 
-[16. Views in SQL [SQL Server]](https://docs.google.com/document/d/1Ofl1Rqocx50Dg-B4r9WL5c1rHGMYr_oBT8jSKhnMjNg/edit#heading=h.g3x8vb8dsuf1)
+[17. Stored Procedures [SQL Server]](https://docs.google.com/document/d/1Nn9vFIDKcLyrrK9nXYpgWqQglx0qS8Sy3hmidI_3_R4/edit#heading=h.xn2iwv9fio66)
 
-[17. Triggers in SQL [SQL Server]](https://docs.google.com/document/d/14nSVL9_glwykeQqDFs2CTwywk_lzz_H202ZAfiPmoxs/edit#heading=h.b648y4t8yuqa)
+[18. Views in SQL [SQL Server]](https://docs.google.com/document/d/1Ofl1Rqocx50Dg-B4r9WL5c1rHGMYr_oBT8jSKhnMjNg/edit#heading=h.g3x8vb8dsuf1)
 
-[18. Sub Queries in SQL [SQL Server]](https://docs.google.com/document/d/1pZogRU8TIl6qAipMXnZIafS7EkShl71f5x4TosIP3w0/edit#heading=h.qosr1jbkpsbs)
+[19. Triggers in SQL [SQL Server]](https://docs.google.com/document/d/14nSVL9_glwykeQqDFs2CTwywk_lzz_H202ZAfiPmoxs/edit#heading=h.b648y4t8yuqa)
 
-[19. Using IN, ANY, ALL, >=, <=, AND, OR, NOT in SQL [SQL Server / MySQL]](https://docs.google.com/document/d/1my2wf2WERBLyFd8HsRgLgEAh159T_grJBTj3fpA7y4M/edit#heading=h.59t454r8ija2)
+[20. Sub Queries in SQL [SQL Server]](https://docs.google.com/document/d/1pZogRU8TIl6qAipMXnZIafS7EkShl71f5x4TosIP3w0/edit#heading=h.qosr1jbkpsbs)
 
-[20. Transactions in SQL [SQL Server]](https://docs.google.com/document/d/1eTbOwEw8iUeRzo-BUeCak5bi2z63gFNBKJ2MdcLVICg/edit#heading=h.1jc8ou7fr4xu)
+[21. Using IN, ANY, ALL, >=, <=, AND, OR, NOT in SQL [SQL Server / MySQL]](https://docs.google.com/document/d/1my2wf2WERBLyFd8HsRgLgEAh159T_grJBTj3fpA7y4M/edit#heading=h.59t454r8ija2)
 
-[21. CONCAT & Split a String in SQL [SQL Server]](https://docs.google.com/document/d/1y43HN0mT3QoMWRYEF1cZHruEg74S4cMrmo7ePu6wpYo/edit#heading=h.llk2dq67afk4)
+[22. Transactions in SQL [SQL Server]](https://docs.google.com/document/d/1eTbOwEw8iUeRzo-BUeCak5bi2z63gFNBKJ2MdcLVICg/edit#heading=h.1jc8ou7fr4xu)
 
-[22. Text Formatting in SQL [SQL Server]](https://docs.google.com/document/d/1NTNZqkPjEeoDCfe3swgaxsooG_X8HqnolGmDneGfWAE/edit#heading=h.ev9tjxnqvrqn)
+[23. CONCAT & Split a String in SQL [SQL Server]](https://docs.google.com/document/d/1y43HN0mT3QoMWRYEF1cZHruEg74S4cMrmo7ePu6wpYo/edit#heading=h.llk2dq67afk4)
 
-[23. ISNULL in SQL [SQL Server]](https://docs.google.com/document/d/1tTXg7Tb-vleR3DjefPSqxFoFvK54pPOFcI43U8nOCPU/edit#heading=h.ev9tjxnqvrqn)
+[24. Text Formatting in SQL [SQL Server]](https://docs.google.com/document/d/1NTNZqkPjEeoDCfe3swgaxsooG_X8HqnolGmDneGfWAE/edit#heading=h.ev9tjxnqvrqn)
 
-[24. Exercises](https://docs.google.com/document/d/1bPmV4U5ldMJsRCQZBP7hmE251Cc1yHGK-HAgdoawnEY/edit#heading=h.x1r04bv35gdm)
+[25. ISNULL in SQL [SQL Server]](https://docs.google.com/document/d/1tTXg7Tb-vleR3DjefPSqxFoFvK54pPOFcI43U8nOCPU/edit#heading=h.ev9tjxnqvrqn)
 
-[25. SQL Quick Reference Guide](https://docs.google.com/document/d/1K7ylPtAC0F9V5dP_UX8w7II8P77oLh7CyZM1T-TYZiI/edit#heading=h.rw0cnaan3ro7)
+[26. Exercises](https://docs.google.com/document/d/1bPmV4U5ldMJsRCQZBP7hmE251Cc1yHGK-HAgdoawnEY/edit#heading=h.x1r04bv35gdm)
+
+[27. SQL Quick Reference Guide](https://docs.google.com/document/d/1K7ylPtAC0F9V5dP_UX8w7II8P77oLh7CyZM1T-TYZiI/edit#heading=h.rw0cnaan3ro7)
+
+
 
 References for Database Ranking
 
