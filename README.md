@@ -50,7 +50,7 @@ All materials are available in google docs
 
 [23. ISNULL in SQL](https://docs.google.com/document/d/1tTXg7Tb-vleR3DjefPSqxFoFvK54pPOFcI43U8nOCPU/edit#heading=h.ev9tjxnqvrqn)
 
-[24. ]()
+[24. Exercises](https://docs.google.com/document/d/1bPmV4U5ldMJsRCQZBP7hmE251Cc1yHGK-HAgdoawnEY/edit#heading=h.x1r04bv35gdm)
 
 [25. SQL Quick Reference Guide](https://docs.google.com/document/d/1K7ylPtAC0F9V5dP_UX8w7II8P77oLh7CyZM1T-TYZiI/edit#heading=h.rw0cnaan3ro7)
 
