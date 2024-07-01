@@ -1,5 +1,6 @@
 # Learn SQL in 3 Days [SQL Server / MySQL]
 All materials are available in google docs
+(Most of the lessons both SQL Server and MySQL)
 
 [1. Database/ SQL Writing Standards & Best Practices [SQL Server]](https://docs.google.com/document/d/19KFb12PFvnvCchlJvmpYFQ2ZG_Y7yAbQV_w3Uigm3os/edit)
 
