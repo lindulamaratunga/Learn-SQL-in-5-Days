@@ -30,7 +30,7 @@
 
 References for database ranking
 
-[Popularity of databases](https://db-engines.com/en/ranking)
+[DB-Engines Ranking](https://db-engines.com/en/ranking)
 
-[Popularity of databases](https://db-engines.com/en/ranking_trend)
+[DB-Engines Ranking - Trend Popularity](https://db-engines.com/en/ranking_trend)
 
