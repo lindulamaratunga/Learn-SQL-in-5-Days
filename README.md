@@ -2,7 +2,7 @@
 All materials are available in google docs
 (Most of the lessons support both SQL Server and MySQL)
 
-[Installation & Configure SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+[Install & Configure SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 
 [Install SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15)
 
