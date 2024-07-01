@@ -18,7 +18,7 @@ All materials are available in google docs
 
 [7. How to Join Three tables [SQL Server / MySQL]](https://docs.google.com/document/d/1Rmua-w8L8Lk3cR-fs8ft8TEkg9VPZMhBd3u-iU-7OrI/edit)
 
-[8. Self Join [SQL Server]](https://docs.google.com/document/d/1BUbutUqejXvhm4Rylg1YipeLzfSM2X7KenMnSUKQz3A/edit#heading=h.jbfa5v2p6h25)
+[8. Self Join [SQL Server / MySQL]](https://docs.google.com/document/d/1BUbutUqejXvhm4Rylg1YipeLzfSM2X7KenMnSUKQz3A/edit#heading=h.jbfa5v2p6h25)
 
 [9. With Statement [SQL Server]](https://docs.google.com/document/d/1kMPSJf5J1q6ipE-A0ovhMeJA_u26AVD_IJ_LIh2qjwk/edit#heading=h.yo7sozfqzazg)
 
