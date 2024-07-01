@@ -8,9 +8,12 @@ All materials are available in google docs
 
 [3. Syntax in SQL [SQL Server / MySQL]](https://docs.google.com/document/d/1weO_j7fpsPWV27rMB9_oecytd6gk_VTaFwaSKu7QrDI/edit#heading=h.rw0cnaan3ro7)
 
-[4. Create, Modify, Delete and List Tables using SQL Commands](https://docs.google.com/document/d/1rt5CuOVzVkpd74ePm)
+Create Modify Delete and List Tables using SQL Commands
+https://docs.google.com/document/d/1rt5CuOVzVkpd74ePm
 
 [5. DESC and ASC in SQL [SQL Server / MySQL]](https://docs.google.com/document/d/19AR-_RsKK8BM61d5MDhMthYPzO9jPCV5SLjB8Raom6M/edit)
+
+
 
 [6. Two table joins [SQL Server / MySQL]](https://docs.google.com/document/d/1hMVjj2EBMvk1zE0bcA5Mb0cdC6QXkqlo_gz2i_lo9w8/edit)
 
@@ -21,6 +24,7 @@ All materials are available in google docs
 [9. SQL Example [SQL Server / MySQL]](https://docs.google.com/document/d/1E8LnT6bB1XQlwINiz6-ym482kPwMgZ-HAEh1EY9xVbs/edit)
 
 [10. Stored Procedures, Functions, Views and Triggers [SQL Server]](https://docs.google.com/document/d/1ZLLKn6K5fJe6vo1lx-kvIPE78wuW7-6QxGpvjg4rzRg/edit#)
+
 
 
 References for Database Ranking
