@@ -6,9 +6,7 @@
 
 [Coding Standards & SQL Formatting Best Practices in SQL [SQL Server]](https://docs.google.com/document/d/1E8izhR904W0goZusIGvLCcKIiH4ZevdG6GCEOIqKTgg/edit)
 
-[Create, Modify, Delete and List Databases using SQL Commands [SQL Server / MySQL]](https://docs.google.com/document/d/1JLCxrEMukvj41mSqrHDIqDAVOFi_uufvKC42w8S_u_o/edit?usp=sharing)
-
-[Create, Modify, Delete and List Tables using SQL Commands [SQL Server / MySQL]](https://docs.google.com/document/d/1rt5CuOVzVkpd74ePm)
+[Create, Modify, Delete and List Tables using SQL Commands](https://docs.google.com/document/d/1rt5CuOVzVkpd74ePm)
 
 [DESC and ASC in SQL [SQL Server / MySQL]](https://docs.google.com/document/d/19AR-_RsKK8BM61d5MDhMthYPzO9jPCV5SLjB8Raom6M/edit)
 
