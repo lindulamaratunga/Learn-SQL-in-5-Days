@@ -20,7 +20,7 @@ All materials are available in google docs
 
 [9. SQL Example [SQL Server / MySQL]](https://docs.google.com/document/d/1E8LnT6bB1XQlwINiz6-ym482kPwMgZ-HAEh1EY9xVbs/edit)
 
-[10. Stored Procedures Functions and Triggers [SQL Server]](https://docs.google.com/document/d/1ZLLKn6K5fJe6vo1lx-kvIPE78wuW7-6QxGpvjg4rzRg/edit#)
+[10. Stored Procedures, Functions, Views and Triggers [SQL Server]](https://docs.google.com/document/d/1ZLLKn6K5fJe6vo1lx-kvIPE78wuW7-6QxGpvjg4rzRg/edit#)
 
 
 References for Database Ranking
