@@ -54,7 +54,7 @@ All materials are available in google docs
 
 [24. ]()
 
-[25. ]()
+[25. SQL Quick Reference Guide](https://docs.google.com/document/d/1K7ylPtAC0F9V5dP_UX8w7II8P77oLh7CyZM1T-TYZiI/edit#heading=h.rw0cnaan3ro7)
 
 References for Database Ranking
 
