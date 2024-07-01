@@ -2,7 +2,7 @@
 
 [SQL Quick Reference [SQL Server / MySQL]](https://docs.google.com/document/d/16rqD6Enxii_Y5aSs7Hz5_CM3CnNGzYqgRA5OeiKU5HQ/edit#heading=h.rw0cnaan3ro7)
 
-[Database/ SQL Writing Standards & Best Practices [SQL Server](https://docs.google.com/document/d/19KFb12PFvnvCchlJvmpYFQ2ZG_Y7yAbQV_w3Uigm3os/edit)
+[Database/ SQL Writing Standards & Best Practices [SQL Server]](https://docs.google.com/document/d/19KFb12PFvnvCchlJvmpYFQ2ZG_Y7yAbQV_w3Uigm3os/edit)
 
 [2 SQL Standards1 Database Standards [SQL Server / MySQL]](https://docs.google.com/document/d/1E8izhR904W0goZusIGvLCcKIiH4ZevdG6GCEOIqKTgg/edit)
 
