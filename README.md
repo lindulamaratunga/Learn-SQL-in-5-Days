@@ -46,8 +46,15 @@ All materials are available in google docs
 
 [20. Transactions in SQL [SQL Server]](https://docs.google.com/document/d/1eTbOwEw8iUeRzo-BUeCak5bi2z63gFNBKJ2MdcLVICg/edit#heading=h.1jc8ou7fr4xu)
 
+[21. CONCAT & Split a String in SQL](https://docs.google.com/document/d/1y43HN0mT3QoMWRYEF1cZHruEg74S4cMrmo7ePu6wpYo/edit#heading=h.llk2dq67afk4)
 
+[22. Text Formatting in SQL Server [SQL Server]](https://docs.google.com/document/d/1NTNZqkPjEeoDCfe3swgaxsooG_X8HqnolGmDneGfWAE/edit#heading=h.ev9tjxnqvrqn)
 
+[23. ]()
+
+[24. ]()
+
+[25. ]()
 
 References for Database Ranking
 
