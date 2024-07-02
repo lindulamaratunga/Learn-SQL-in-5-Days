@@ -42,6 +42,15 @@ SQL Server Installation
 
 [20. Sub Queries SQL Server](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2020.%20Sub%20Queries.pdf)
 
+[21. IN, ANY, ALL, >=, <=, AND, OR, NOT SQL Server / MySQL](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2021.%20IN%2C%20ANY%2C%20ALL%2C%20AND%2C%20OR%2C%20NOT.pdf)
+
+[22. Transactions SQL Server](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2022.%20Transactions.pdf)
+
+[23. CONCAT & Split a String SQL Server](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2023%20CONCAT%20%26%20Split%20a%20String.pdf)
+
+[24. Collation SQL Server](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2024.%20Collation.pdf)
+
+[25. Exercises](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2025.%20Exercises.pdf)
 
 DB-Engines Ranking - Trend Popularity
 
