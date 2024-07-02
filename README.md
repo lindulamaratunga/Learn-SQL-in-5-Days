@@ -26,8 +26,6 @@ All lessons are available in google docs
 
 [11. MAX, MIN, AVG, COUNT, SUM [SQL Server / MySQL]](https://docs.google.com/document/d/1mm4c_NNW3U5gJAvhH-ixTIU1GY_0tK1THG-4x8Rj3-E/edit#heading=h.boxdozb1w53)
 
-[12. Built-in Functions [SQL Server]](https://docs.google.com/document/d/1mm4c_NNW3U5gJAvhH-ixTIU1GY_0tK1THG-4x8Rj3-E/edit)
-
 [13. Conditional Statements [SQL Server]](https://docs.google.com/document/d/1VKPgWzDl5MpVdqKVI-pjYo5qEYrWmKzP35V1-GJw_-M/edit#heading=h.lqhsnvltkikq)
 
 [14. COUNT and SUM [SQL Server / MySQL]](https://docs.google.com/document/d/1E8LnT6bB1XQlwINiz6-ym482kPwMgZ-HAEh1EY9xVbs/edit)
