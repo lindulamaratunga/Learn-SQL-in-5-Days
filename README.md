@@ -9,6 +9,7 @@ SQL Server Installation
 2. Data Types SQL Server
 
 3. Syntax SQL Server / MySQL
+
 4. Create, Modify, Delete and List Tables using SQL Commands SQL Server
 
 5. DESC and ASC SQL Server / MySQL
@@ -32,6 +33,7 @@ SQL Server Installation
 14. RTRIM, LTRIM & TRIM Functions SQL Server
 
 15. UNION SQL Server / MySQL
+
 16. Functions SQL Server
 
 17. Stored Procedures SQL Server
@@ -42,17 +44,17 @@ SQL Server Installation
 
 21. IN, ANY, ALL, >=, <=, AND, OR, NOT SQL Server / MySQL
 
-22. Transactions SQL Server(https://docs.google.com/document/d/1eTbOwEw8iUeRzo-BUeCak5bi2z63gFNBKJ2MdcLVICg/edit#heading=h.1jc8ou7fr4xu)
+22. Transactions SQL Server
 
-23. CONCAT & Split a String SQL Server(https://docs.google.com/document/d/1y43HN0mT3QoMWRYEF1cZHruEg74S4cMrmo7ePu6wpYo/edit#heading=h.llk2dq67afk4)
+23. CONCAT & Split a String SQL Server
 
-24. Collation SQL Server(https://docs.google.com/document/d/1X2E_lceihyhoACSrKXeZqf_tytOItSYRQ7wF2lbbIKg/edit#heading=h.kkabt6297bvb)
+24. Collation SQL Server
 
-25. Exercises(https://docs.google.com/document/d/1bPmV4U5ldMJsRCQZBP7hmE251Cc1yHGK-HAgdoawnEY/edit#heading=h.x1r04bv35gdm)
+25. Exercises
 
 References for Database Ranking
 
-DB-Engines Ranking(https://db-engines.com/en/ranking)
+DB-Engines Ranking
 
-DB-Engines Ranking - Trend Popularity(https://db-engines.com/en/ranking_trend)
+DB-Engines Ranking - Trend Popularity
 
