@@ -2,9 +2,7 @@
 All lessons are available in google docs
 (Most of lessons support both SQL Server and MySQL)
 
-[SQL Server Installation](https://docs.google.com/document/d/1-_PmGIuXJ4eL3l-wNVHr_SqO1ykoqqxYg2solaAxtdY/edit#heading=h.csp110b2igo3)
-
-[1. SQL Standards and Best Practices [SQL Server]](https://docs.google.com/document/d/19KFb12PFvnvCchlJvmpYFQ2ZG_Y7yAbQV_w3Uigm3os/edit)
+[1. SQL Server Installation](https://docs.google.com/document/d/1-_PmGIuXJ4eL3l-wNVHr_SqO1ykoqqxYg2solaAxtdY/edit#heading=h.csp110b2igo3)
 
 [2. Data Types [SQL Server]](https://docs.google.com/document/d/1IX36qTQTxycYInq2-xb6lZlcjgrg4Weg2M4k9xKt3dE/edit)
 
