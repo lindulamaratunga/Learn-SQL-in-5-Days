@@ -24,7 +24,7 @@ All lessons are available in google docs
 
 [10. CROSS APPLY & OUTER APPLY [SQL Server]](https://docs.google.com/document/d/1jbWfhvmz4UudN3raL0I8EpOO7X9bLrbNzMFlb0kJk_w/edit#heading=h.rw0cnaan3ro7)
 
-[11. MAX, MIN, AVG, COUNT, SUM [SQL Server / MySQL]](https://docs.google.com/document/d/13U2fS-OGMpkIiiu5QQq28lUoMzGitseXE2bcedNZ8tw/edit)
+[11. MAX, MIN, AVG, COUNT, SUM [SQL Server / MySQL]](https://docs.google.com/document/d/1mm4c_NNW3U5gJAvhH-ixTIU1GY_0tK1THG-4x8Rj3-E/edit#heading=h.boxdozb1w53)
 
 [12. Built-in Functions [SQL Server]](https://docs.google.com/document/d/1mm4c_NNW3U5gJAvhH-ixTIU1GY_0tK1THG-4x8Rj3-E/edit)
 
