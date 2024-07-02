@@ -4,7 +4,7 @@
 
 SQL Server Installation
 
-[01. Quick Reference]
+[01. Quick Reference](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2001.%20Quick%20Reference.pdf)
 [02. Data Types SQL Server]
 [03. Syntax SQL Server / MySQL]
 [04. Create, Modify, Delete and List Tables using SQL Commands SQL Server]
