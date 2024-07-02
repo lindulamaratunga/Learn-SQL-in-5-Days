@@ -44,7 +44,7 @@ All materials are available in google docs
 
 [20. Sub Queries [SQL Server]](https://docs.google.com/document/d/1pZogRU8TIl6qAipMXnZIafS7EkShl71f5x4TosIP3w0/edit#heading=h.qosr1jbkpsbs)
 
-[21. Using IN, ANY, ALL, >=, <=, AND, OR, NOT [SQL Server / MySQL]](https://docs.google.com/document/d/1my2wf2WERBLyFd8HsRgLgEAh159T_grJBTj3fpA7y4M/edit#heading=h.59t454r8ija2)
+[21. IN, ANY, ALL, >=, <=, AND, OR, NOT [SQL Server / MySQL]](https://docs.google.com/document/d/1my2wf2WERBLyFd8HsRgLgEAh159T_grJBTj3fpA7y4M/edit#heading=h.59t454r8ija2)
 
 [22. Transactions [SQL Server]](https://docs.google.com/document/d/1eTbOwEw8iUeRzo-BUeCak5bi2z63gFNBKJ2MdcLVICg/edit#heading=h.1jc8ou7fr4xu)
 
