@@ -26,7 +26,7 @@ All materials are available in google docs
 
 [11. Min Max [SQL Server / MySQL]](https://docs.google.com/document/d/13U2fS-OGMpkIiiu5QQq28lUoMzGitseXE2bcedNZ8tw/edit)
 
-[12. SQL Built-in Functions [SQL Server]](https://docs.google.com/document/d/1WLX48WSq7-2BXkgNP-gt0ISBp6-VmGYslGM79abZLgQ/edit#heading=h.m267p86dt09v)
+[12. Built-in Functions [SQL Server]](https://docs.google.com/document/d/1WLX48WSq7-2BXkgNP-gt0ISBp6-VmGYslGM79abZLgQ/edit#heading=h.m267p86dt09v)
 
 [13. Conditional Statements [SQL Server]](https://docs.google.com/document/d/1VKPgWzDl5MpVdqKVI-pjYo5qEYrWmKzP35V1-GJw_-M/edit#heading=h.lqhsnvltkikq)
 
