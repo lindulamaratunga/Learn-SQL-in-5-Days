@@ -54,11 +54,11 @@ All materials are available in google docs
 
 [25. ISNULL [SQL Server]](https://docs.google.com/document/d/1tTXg7Tb-vleR3DjefPSqxFoFvK54pPOFcI43U8nOCPU/edit#heading=h.ev9tjxnqvrqn)
 
-[26. Exercises](https://docs.google.com/document/d/1bPmV4U5ldMJsRCQZBP7hmE251Cc1yHGK-HAgdoawnEY/edit#heading=h.x1r04bv35gdm)
+[26. Collation [SQL Server]](https://docs.google.com/document/d/1X2E_lceihyhoACSrKXeZqf_tytOItSYRQ7wF2lbbIKg/edit#heading=h.kkabt6297bvb)
 
 [27. SQL Quick Reference Guide](https://docs.google.com/document/d/1K7ylPtAC0F9V5dP_UX8w7II8P77oLh7CyZM1T-TYZiI/edit#heading=h.rw0cnaan3ro7)
 
-[28. Collation [SQL Server]](https://docs.google.com/document/d/1X2E_lceihyhoACSrKXeZqf_tytOItSYRQ7wF2lbbIKg/edit#heading=h.kkabt6297bvb)
+[28. Exercises](https://docs.google.com/document/d/1bPmV4U5ldMJsRCQZBP7hmE251Cc1yHGK-HAgdoawnEY/edit#heading=h.x1r04bv35gdm)
 
 References for Database Ranking
 
