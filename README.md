@@ -56,7 +56,7 @@ All materials are available in google docs
 
 [26. Collation [SQL Server]](https://docs.google.com/document/d/1X2E_lceihyhoACSrKXeZqf_tytOItSYRQ7wF2lbbIKg/edit#heading=h.kkabt6297bvb)
 
-[27. SQL Quick Reference Guide](https://docs.google.com/document/d/1K7ylPtAC0F9V5dP_UX8w7II8P77oLh7CyZM1T-TYZiI/edit#heading=h.rw0cnaan3ro7)
+[27. SQL Reference](https://docs.google.com/document/d/1K7ylPtAC0F9V5dP_UX8w7II8P77oLh7CyZM1T-TYZiI/edit#heading=h.rw0cnaan3ro7)
 
 [28. Exercises](https://docs.google.com/document/d/1bPmV4U5ldMJsRCQZBP7hmE251Cc1yHGK-HAgdoawnEY/edit#heading=h.x1r04bv35gdm)
 
