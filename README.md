@@ -14,5 +14,16 @@ SQL Server Installation
 
 [05. DESC and ASC SQL Server / MySQL](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2005.%20DESC%20%26%20ASC.pdf)
 
+[06. How to Join Two tables SQL Server / MySQL](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2006.%20How%20to%20Join%20two%20tables.pdf)
+
+[07. How to Join Three tables SQL Server / MySQL](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2007.%20How%20to%20Join%20three%20tables.pdf)
+
+[08. Self Join SQL Server / MySQL](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2008.%20Self%20Join.pdf)
+
+[09. With Statement SQL Server](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2009.%20With%20Statement.pdf)
+
+[10. CROSS APPLY & OUTER APPLY SQL Server](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2010.%20CROSS%20APPLY%20%26%20OUTER%20APPLY.pdf)
+
+
 DB-Engines Ranking - Trend Popularity
 
