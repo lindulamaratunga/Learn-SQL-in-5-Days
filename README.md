@@ -38,9 +38,7 @@ All lessons are available in google docs
 
 [17. Stored Procedures [SQL Server]](https://docs.google.com/document/d/1Nn9vFIDKcLyrrK9nXYpgWqQglx0qS8Sy3hmidI_3_R4/edit#heading=h.xn2iwv9fio66)
 
-[18. Views [SQL Server]](https://docs.google.com/document/d/1Ofl1Rqocx50Dg-B4r9WL5c1rHGMYr_oBT8jSKhnMjNg/edit#heading=h.g3x8vb8dsuf1)
-
-[19. Triggers [SQL Server]](https://docs.google.com/document/d/14nSVL9_glwykeQqDFs2CTwywk_lzz_H202ZAfiPmoxs/edit#heading=h.b648y4t8yuqa)
+[18. Views and Triggers [SQL Server]](https://docs.google.com/document/d/1Ofl1Rqocx50Dg-B4r9WL5c1rHGMYr_oBT8jSKhnMjNg/edit#heading=h.g3x8vb8dsuf1)
 
 [20. Sub Queries [SQL Server]](https://docs.google.com/document/d/1pZogRU8TIl6qAipMXnZIafS7EkShl71f5x4TosIP3w0/edit#heading=h.qosr1jbkpsbs)
 
