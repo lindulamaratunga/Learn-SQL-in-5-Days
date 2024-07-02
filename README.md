@@ -51,5 +51,9 @@ SQL Server Installation
 
 [25. Exercises](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2025.%20Exercises.pdf)
 
-DB-Engines Ranking - Trend Popularity
+References for Database Ranking
+
+[DB-Engines Ranking](https://db-engines.com/en/ranking)
+
+[DB-Engines Ranking - Trend Popularity](https://db-engines.com/en/ranking_trend)
 
