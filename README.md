@@ -24,6 +24,24 @@ SQL Server Installation
 
 [10. CROSS APPLY & OUTER APPLY SQL Server](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2010.%20CROSS%20APPLY%20%26%20OUTER%20APPLY.pdf)
 
+[11. MAX, MIN, AVG, COUNT, SUM SQL Server / MySQL](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2011.%20MAX%2C%20MIN%2C%20AVG%2C%20COUNT%2C%20SUM.pdf)
+
+[12. ISNULL SQL Server]()
+
+[13. Conditional Statements SQL Server](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2013.%20Conditional%20Statements.pdf)
+
+[14. RTRIM, LTRIM & TRIM Functions SQL Server](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2014.%20RTRIM%2C%20LTRIM%20%26%20TRIM%20Functions.pdf)
+
+[15. UNION SQL Server / MySQL](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2015.%20UNION.pdf)
+
+[16. Functions SQL Server](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2016.%20Functions.pdf)
+
+[17. Stored Procedures SQL Server](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2017.%20Stored%20Procedures.pdf)
+
+[18. Views and Triggers SQL Server](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2018.%20Views%20and%20Triggers.pdf)
+
+[20. Sub Queries SQL Server](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2020.%20Sub%20Queries.pdf)
+
 
 DB-Engines Ranking - Trend Popularity
 
