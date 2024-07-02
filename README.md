@@ -26,6 +26,8 @@ All lessons are available in google docs
 
 [11. MAX, MIN, AVG, COUNT, SUM [SQL Server / MySQL]](https://docs.google.com/document/d/1mm4c_NNW3U5gJAvhH-ixTIU1GY_0tK1THG-4x8Rj3-E/edit#heading=h.boxdozb1w53)
 
+[12. ISNULL [SQL Server]](https://docs.google.com/document/d/1tTXg7Tb-vleR3DjefPSqxFoFvK54pPOFcI43U8nOCPU/edit#heading=h.ev9tjxnqvrqn)
+
 [13. Conditional Statements [SQL Server]](https://docs.google.com/document/d/1VKPgWzDl5MpVdqKVI-pjYo5qEYrWmKzP35V1-GJw_-M/edit#heading=h.lqhsnvltkikq)
 
 [14. COUNT and SUM [SQL Server / MySQL]](https://docs.google.com/document/d/1E8LnT6bB1XQlwINiz6-ym482kPwMgZ-HAEh1EY9xVbs/edit)
@@ -50,13 +52,11 @@ All lessons are available in google docs
 
 [24. RTRIM, LTRIM & TRIM Functions [SQL Server]](https://docs.google.com/document/d/1WV-b_Kb_9hn8cjM2WHgiiuYi8W2V6Fvjt1JiupxVbl4/edit#heading=h.iovymudlnvi)
 
-[25. ISNULL [SQL Server]](https://docs.google.com/document/d/1tTXg7Tb-vleR3DjefPSqxFoFvK54pPOFcI43U8nOCPU/edit#heading=h.ev9tjxnqvrqn)
+[25. Collation [SQL Server]](https://docs.google.com/document/d/1X2E_lceihyhoACSrKXeZqf_tytOItSYRQ7wF2lbbIKg/edit#heading=h.kkabt6297bvb)
 
-[26. Collation [SQL Server]](https://docs.google.com/document/d/1X2E_lceihyhoACSrKXeZqf_tytOItSYRQ7wF2lbbIKg/edit#heading=h.kkabt6297bvb)
+SQL Reference](https://docs.google.com/document/d/1K7ylPtAC0F9V5dP_UX8w7II8P77oLh7CyZM1T-TYZiI/edit#heading=h.rw0cnaan3ro7)
 
-[27. SQL Reference](https://docs.google.com/document/d/1K7ylPtAC0F9V5dP_UX8w7II8P77oLh7CyZM1T-TYZiI/edit#heading=h.rw0cnaan3ro7)
-
-[28. Exercises](https://docs.google.com/document/d/1bPmV4U5ldMJsRCQZBP7hmE251Cc1yHGK-HAgdoawnEY/edit#heading=h.x1r04bv35gdm)
+Exercises](https://docs.google.com/document/d/1bPmV4U5ldMJsRCQZBP7hmE251Cc1yHGK-HAgdoawnEY/edit#heading=h.x1r04bv35gdm)
 
 References for Database Ranking
 
