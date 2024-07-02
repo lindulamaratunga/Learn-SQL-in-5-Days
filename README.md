@@ -26,7 +26,7 @@ SQL Server Installation
 
 [11. MAX, MIN, AVG, COUNT, SUM SQL Server / MySQL](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2011.%20MAX%2C%20MIN%2C%20AVG%2C%20COUNT%2C%20SUM.pdf)
 
-[12. ISNULL SQL Server]()
+[12. ISNULL SQL Server](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2012.%20ISNULL.pdf)
 
 [13. Conditional Statements SQL Server](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2013.%20Conditional%20Statements.pdf)
 
