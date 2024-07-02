@@ -1,60 +1,58 @@
-# Learn SQL in 5 Days [SQL Server / MySQL]
+# Learn SQL in 5 Days SQL Server / MySQL
 All lessons are available in google docs
 (Most of lessons support both SQL Server and MySQL)
 
-[SQL Server Installation]
+SQL Server Installation
 
-[1. Quick Reference]
+1. Quick Reference
 
-[2. Data Types [SQL Server]](https://docs.google.com/document/d/1IX36qTQTxycYInq2-xb6lZlcjgrg4Weg2M4k9xKt3dE/edit)
+2. Data Types SQL Server
 
-[3. Syntax [SQL Server / MySQL]](https://docs.google.com/document/d/1weO_j7fpsPWV27rMB9_oecytd6gk_VTaFwaSKu7QrDI/edit#heading=h.rw0cnaan3ro7)
+3. Syntax SQL Server / MySQL
+4. Create, Modify, Delete and List Tables using SQL Commands SQL Server
 
-[4. Create, Modify, Delete and List Tables using SQL Commands [SQL Server]](https://docs.google.com/document/d/1rt5CuOVzVkpd74ePmk7MbnR8dM1OykjmWbnekrNkXbI/edit#heading=h.y7jp32e8jgaf)
+5. DESC and ASC SQL Server / MySQL
 
-[5. DESC and ASC [SQL Server / MySQL]](https://docs.google.com/document/d/19AR-_RsKK8BM61d5MDhMthYPzO9jPCV5SLjB8Raom6M/edit)
+6. How to Join Two tables SQL Server / MySQL
 
-[6. How to Join Two tables [SQL Server / MySQL]](https://docs.google.com/document/d/1hMVjj2EBMvk1zE0bcA5Mb0cdC6QXkqlo_gz2i_lo9w8/edit)
+7. How to Join Three tables SQL Server / MySQL
 
-[7. How to Join Three tables [SQL Server / MySQL]](https://docs.google.com/document/d/1Rmua-w8L8Lk3cR-fs8ft8TEkg9VPZMhBd3u-iU-7OrI/edit)
+8. Self Join SQL Server / MySQL
 
-[8. Self Join [SQL Server / MySQL]](https://docs.google.com/document/d/1BUbutUqejXvhm4Rylg1YipeLzfSM2X7KenMnSUKQz3A/edit#heading=h.jbfa5v2p6h25)
+9. With Statement SQL Server
 
-[9. With Statement [SQL Server]](https://docs.google.com/document/d/1kMPSJf5J1q6ipE-A0ovhMeJA_u26AVD_IJ_LIh2qjwk/edit#heading=h.yo7sozfqzazg)
+10. CROSS APPLY & OUTER APPLY SQL Server
 
-[10. CROSS APPLY & OUTER APPLY [SQL Server]](https://docs.google.com/document/d/1jbWfhvmz4UudN3raL0I8EpOO7X9bLrbNzMFlb0kJk_w/edit#heading=h.rw0cnaan3ro7)
+11. MAX, MIN, AVG, COUNT, SUM SQL Server / MySQL
 
-[11. MAX, MIN, AVG, COUNT, SUM [SQL Server / MySQL]](https://docs.google.com/document/d/1mm4c_NNW3U5gJAvhH-ixTIU1GY_0tK1THG-4x8Rj3-E/edit#heading=h.boxdozb1w53)
+12. ISNULL SQL Server
 
-[12. ISNULL [SQL Server]](https://docs.google.com/document/d/1tTXg7Tb-vleR3DjefPSqxFoFvK54pPOFcI43U8nOCPU/edit#heading=h.ev9tjxnqvrqn)
+13. Conditional Statements SQL Server
 
-[13. Conditional Statements [SQL Server]](https://docs.google.com/document/d/1VKPgWzDl5MpVdqKVI-pjYo5qEYrWmKzP35V1-GJw_-M/edit#heading=h.lqhsnvltkikq)
+14. RTRIM, LTRIM & TRIM Functions SQL Server
 
-[14. RTRIM, LTRIM & TRIM Functions [SQL Server]](https://docs.google.com/document/d/1WV-b_Kb_9hn8cjM2WHgiiuYi8W2V6Fvjt1JiupxVbl4/edit#heading=h.iovymudlnvi)
+15. UNION SQL Server / MySQL
+16. Functions SQL Server
 
-[15. UNION [SQL Server / MySQL]](https://docs.google.com/document/d/1kTAHWfP1zR11uHcyS85OpYj1zcOfQkvgmrhKmO4O-DY/edit#heading=h.boxdozb1w53)
+17. Stored Procedures SQL Server
 
-[16. Functions [SQL Server]](https://docs.google.com/document/d/1pLOwYKh9nczsf99VrMiw3KPCApAOCGX9YqzYrncO8CI/edit#heading=h.xn2iwv9fio66)
+18. Views and Triggers SQL Server
 
-[17. Stored Procedures [SQL Server]](https://docs.google.com/document/d/1Nn9vFIDKcLyrrK9nXYpgWqQglx0qS8Sy3hmidI_3_R4/edit#heading=h.xn2iwv9fio66)
+20. Sub Queries SQL Server
 
-[18. Views and Triggers [SQL Server]](https://docs.google.com/document/d/1Ofl1Rqocx50Dg-B4r9WL5c1rHGMYr_oBT8jSKhnMjNg/edit#heading=h.g3x8vb8dsuf1)
+21. IN, ANY, ALL, >=, <=, AND, OR, NOT SQL Server / MySQL
 
-[20. Sub Queries [SQL Server]](https://docs.google.com/document/d/1pZogRU8TIl6qAipMXnZIafS7EkShl71f5x4TosIP3w0/edit#heading=h.qosr1jbkpsbs)
+22. Transactions SQL Server(https://docs.google.com/document/d/1eTbOwEw8iUeRzo-BUeCak5bi2z63gFNBKJ2MdcLVICg/edit#heading=h.1jc8ou7fr4xu)
 
-[21. IN, ANY, ALL, >=, <=, AND, OR, NOT [SQL Server / MySQL]](https://docs.google.com/document/d/1my2wf2WERBLyFd8HsRgLgEAh159T_grJBTj3fpA7y4M/edit#heading=h.59t454r8ija2)
+23. CONCAT & Split a String SQL Server(https://docs.google.com/document/d/1y43HN0mT3QoMWRYEF1cZHruEg74S4cMrmo7ePu6wpYo/edit#heading=h.llk2dq67afk4)
 
-[22. Transactions [SQL Server]](https://docs.google.com/document/d/1eTbOwEw8iUeRzo-BUeCak5bi2z63gFNBKJ2MdcLVICg/edit#heading=h.1jc8ou7fr4xu)
+24. Collation SQL Server(https://docs.google.com/document/d/1X2E_lceihyhoACSrKXeZqf_tytOItSYRQ7wF2lbbIKg/edit#heading=h.kkabt6297bvb)
 
-[23. CONCAT & Split a String [SQL Server]](https://docs.google.com/document/d/1y43HN0mT3QoMWRYEF1cZHruEg74S4cMrmo7ePu6wpYo/edit#heading=h.llk2dq67afk4)
-
-[24. Collation [SQL Server]](https://docs.google.com/document/d/1X2E_lceihyhoACSrKXeZqf_tytOItSYRQ7wF2lbbIKg/edit#heading=h.kkabt6297bvb)
-
-[25. Exercises](https://docs.google.com/document/d/1bPmV4U5ldMJsRCQZBP7hmE251Cc1yHGK-HAgdoawnEY/edit#heading=h.x1r04bv35gdm)
+25. Exercises(https://docs.google.com/document/d/1bPmV4U5ldMJsRCQZBP7hmE251Cc1yHGK-HAgdoawnEY/edit#heading=h.x1r04bv35gdm)
 
 References for Database Ranking
 
-[DB-Engines Ranking](https://db-engines.com/en/ranking)
+DB-Engines Ranking(https://db-engines.com/en/ranking)
 
-[DB-Engines Ranking - Trend Popularity](https://db-engines.com/en/ranking_trend)
+DB-Engines Ranking - Trend Popularity(https://db-engines.com/en/ranking_trend)
 
