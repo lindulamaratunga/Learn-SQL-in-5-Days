@@ -50,7 +50,7 @@ All lessons are available in google docs
 
 [23. CONCAT & Split a String [SQL Server]](https://docs.google.com/document/d/1y43HN0mT3QoMWRYEF1cZHruEg74S4cMrmo7ePu6wpYo/edit#heading=h.llk2dq67afk4)
 
-[24. Text Formatting [SQL Server]](https://docs.google.com/document/d/1NTNZqkPjEeoDCfe3swgaxsooG_X8HqnolGmDneGfWAE/edit#heading=h.ev9tjxnqvrqn)
+[24. RTRIM, LTRIM & TRIM Functions [SQL Server]](https://docs.google.com/document/d/1WV-b_Kb_9hn8cjM2WHgiiuYi8W2V6Fvjt1JiupxVbl4/edit#heading=h.iovymudlnvi)
 
 [25. ISNULL [SQL Server]](https://docs.google.com/document/d/1tTXg7Tb-vleR3DjefPSqxFoFvK54pPOFcI43U8nOCPU/edit#heading=h.ev9tjxnqvrqn)
 
