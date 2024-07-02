@@ -30,7 +30,7 @@ All lessons are available in google docs
 
 [13. Conditional Statements [SQL Server]](https://docs.google.com/document/d/1VKPgWzDl5MpVdqKVI-pjYo5qEYrWmKzP35V1-GJw_-M/edit#heading=h.lqhsnvltkikq)
 
-[14. COUNT and SUM [SQL Server / MySQL]](https://docs.google.com/document/d/1E8LnT6bB1XQlwINiz6-ym482kPwMgZ-HAEh1EY9xVbs/edit)
+[14. RTRIM, LTRIM & TRIM Functions [SQL Server]](https://docs.google.com/document/d/1WV-b_Kb_9hn8cjM2WHgiiuYi8W2V6Fvjt1JiupxVbl4/edit#heading=h.iovymudlnvi)
 
 [15. UNION [SQL Server / MySQL]](https://docs.google.com/document/d/1kTAHWfP1zR11uHcyS85OpYj1zcOfQkvgmrhKmO4O-DY/edit#heading=h.boxdozb1w53)
 
@@ -50,11 +50,9 @@ All lessons are available in google docs
 
 [23. CONCAT & Split a String [SQL Server]](https://docs.google.com/document/d/1y43HN0mT3QoMWRYEF1cZHruEg74S4cMrmo7ePu6wpYo/edit#heading=h.llk2dq67afk4)
 
-[24. RTRIM, LTRIM & TRIM Functions [SQL Server]](https://docs.google.com/document/d/1WV-b_Kb_9hn8cjM2WHgiiuYi8W2V6Fvjt1JiupxVbl4/edit#heading=h.iovymudlnvi)
+[24. Collation [SQL Server]](https://docs.google.com/document/d/1X2E_lceihyhoACSrKXeZqf_tytOItSYRQ7wF2lbbIKg/edit#heading=h.kkabt6297bvb)
 
-[25. Collation [SQL Server]](https://docs.google.com/document/d/1X2E_lceihyhoACSrKXeZqf_tytOItSYRQ7wF2lbbIKg/edit#heading=h.kkabt6297bvb)
-
-[SQL Reference](https://docs.google.com/document/d/1K7ylPtAC0F9V5dP_UX8w7II8P77oLh7CyZM1T-TYZiI/edit#heading=h.rw0cnaan3ro7)
+[25. SQL Reference](https://docs.google.com/document/d/1K7ylPtAC0F9V5dP_UX8w7II8P77oLh7CyZM1T-TYZiI/edit#heading=h.rw0cnaan3ro7)
 
 [Exercises](https://docs.google.com/document/d/1bPmV4U5ldMJsRCQZBP7hmE251Cc1yHGK-HAgdoawnEY/edit#heading=h.x1r04bv35gdm)
 
