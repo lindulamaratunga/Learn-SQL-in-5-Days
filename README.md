@@ -1,5 +1,5 @@
 # Learn SQL in 5 Days [SQL Server / MySQL]
-All materials are available in google docs
+All lessons are available in google docs
 (Most of the lessons support both SQL Server and MySQL)
 
 [SQL Server Installation](https://docs.google.com/document/d/1-_PmGIuXJ4eL3l-wNVHr_SqO1ykoqqxYg2solaAxtdY/edit#heading=h.csp110b2igo3)
