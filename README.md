@@ -2,7 +2,7 @@
 25 SQL lessons are available (Most of lessons support both SQL Server and MySQL)
 
 [01. SQL Server Installation](https://docs.google.com/document/d/1-_PmGIuXJ4eL3l-wNVHr_SqO1ykoqqxYg2solaAxtdY/edit#heading=h.csp110b2igo3)
-1. Install SQL Server
+1. Install SQL Server 2022
 2. Install SQL Server Management Studio
 
 [02. Quick Reference](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2001.%20Quick%20Reference.pdf)
