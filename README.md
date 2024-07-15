@@ -1,7 +1,7 @@
 # Master SQL Server and MySQL in Just 5 Days
 25 SQL lessons are available (Most of lessons support both SQL Server and MySQL)
 
-[01. Installing SQL Server 2022 and SQL Server Management Studio](https://docs.google.com/document/d/1-_PmGIuXJ4eL3l-wNVHr_SqO1ykoqqxYg2solaAxtdY/edit#heading=h.csp110b2igo3)
+
 
 [02. Quick Reference Guide](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2001.%20Quick%20Reference.pdf)
 
@@ -50,7 +50,7 @@
 [24. Understanding Collation in SQL Server](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2024.%20Collation.pdf)
 
 [25. Practical Exercises](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2025.%20Exercises.pdf)
-
+[01. Installing SQL Server 2022 and SQL Server Management Studio](https://docs.google.com/document/d/1-_PmGIuXJ4eL3l-wNVHr_SqO1ykoqqxYg2solaAxtdY/edit#heading=h.csp110b2igo3)
 References for Database Ranking
 
 [DB-Engines Ranking](https://db-engines.com/en/ranking)
