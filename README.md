@@ -3,7 +3,7 @@
 
 [01. Installing SQL Server 2022 and SQL Server Management Studio](https://docs.google.com/document/d/1-_PmGIuXJ4eL3l-wNVHr_SqO1ykoqqxYg2solaAxtdY/edit#heading=h.csp110b2igo3)
 
-[02. Quick Reference Guide](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2001.%20Quick%20Reference.pdf)
+[02. SQL Commands and CRUD Operations (INSERT, SELECT, UPDATE, DELETE).](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2001.%20Quick%20Reference.pdf)
 
 [03. Data Types in SQL Server](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2002.%20Data%20Types.pdf)
 
