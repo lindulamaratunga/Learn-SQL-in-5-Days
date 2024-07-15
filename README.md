@@ -1,4 +1,4 @@
-# Learn SQL in 5 Days SQL Server / MySQL
+# Master SQL Server and MySQL in Just 5 Days
 25 SQL lessons are available (Most of lessons support both SQL Server and MySQL)
 
 [SQL Server Installation](https://docs.google.com/document/d/1-_PmGIuXJ4eL3l-wNVHr_SqO1ykoqqxYg2solaAxtdY/edit#heading=h.csp110b2igo3)
