@@ -52,6 +52,9 @@ There are 25 SQL lessons available, with most lessons applicable to both SQL Ser
 
 [25. Practical Exercises](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2025.%20Exercises.pdf)
 
+[26. Date Time in SQL Server](https://github.com/lindulamaratunga/Learn-SQL-in-5-Days/upload/main)
+
+
 References for Database Ranking
 
 [DB-Engines Ranking](https://db-engines.com/en/ranking)
