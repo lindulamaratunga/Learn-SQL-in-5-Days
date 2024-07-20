@@ -54,6 +54,8 @@ There are 25 SQL lessons available, with most lessons applicable to both SQL Ser
 
 [26. Date Time in SQL Server](https://github.com/lindulamaratunga/Learn-SQL-in-5-Days/blob/main/Lesson%2026.%20DateTimeInSQLServer.pdf)
 
+[27. Date Time in MySQL](https://github.com/lindulamaratunga/Learn-SQL-in-5-Days/blob/main/Lesson%2027.%20DATE%20and%20TIME%20in%20MySQL.pdf)
+
 
 References for Database Ranking
 
