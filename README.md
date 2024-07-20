@@ -56,7 +56,7 @@ There are 25 SQL lessons available, with most lessons applicable to both SQL Ser
 
 [27. Date Time in MySQL](https://github.com/lindulamaratunga/Learn-SQL-in-5-Days/blob/main/Lesson%2027.%20DATE%20and%20TIME%20in%20MySQL.pdf)
 
-[28. String Functions (LOWER, UPPER, LEFT & RIGHT) in SQL](https://github.com/lindulamaratunga/Learn-SQL-in-5-Days/blob/main/Lesson%2028.%20String%20Functions(LOWER%2C%20UPPER%2C%20LEFT%20%26%20RIGHT)%20in%20SQL.pdf)
+[28. String Functions (LOWER, UPPER, LEFT & RIGHT) in SQL Server](https://github.com/lindulamaratunga/Learn-SQL-in-5-Days/blob/main/Lesson%2028.%20String%20Functions(LOWER%2C%20UPPER%2C%20LEFT%20%26%20RIGHT)%20in%20SQL.pdf)
 
 References for Database Ranking
 
