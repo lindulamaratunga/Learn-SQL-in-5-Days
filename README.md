@@ -34,7 +34,7 @@ There are 25 SQL lessons available, with most lessons applicable to both SQL Ser
 
 [16. UNION in SQL Server / MySQL](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2015.%20UNION.pdf)
 
-[04. Creating User declared Functions in SQL Server](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2016.%20Functions.pdf)
+[04. Creating User Declared Functions in SQL Server](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2016.%20Functions.pdf)
 
 [18. Stored Procedures in SQL Server](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2017.%20Stored%20Procedures.pdf)
 
