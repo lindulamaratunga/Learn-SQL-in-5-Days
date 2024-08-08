@@ -10,7 +10,7 @@ There are 25 SQL lessons available, with most lessons applicable to both SQL Ser
 
 [04. Syntax in SQL Server / MySQL](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2003.%20Syntax.pdf)
 
-[05. DDL Commands (CREATE, ALTER, DROP and TRUNCATE) in SQL Server](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2004.%20Create%2C%20Modify%2C%20Delete%20%26%20List%20Tables.pdf)
+[05. DDL Commands (CREATE, ALTER, DROP, TRUNCATE) in SQL Server](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2004.%20Create%2C%20Modify%2C%20Delete%20%26%20List%20Tables.pdf)
 
 [06. DESC and ASC in SQL Server / MySQL](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2005.%20DESC%20%26%20ASC.pdf)
 
@@ -30,7 +30,7 @@ There are 25 SQL lessons available, with most lessons applicable to both SQL Ser
 
 [14. Conditional Statements in SQL Server](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2013.%20Conditional%20Statements.pdf)
 
-[15. String Functions (RTRIM, LTRIM & TRIM) in SQL Server](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2014.%20RTRIM%2C%20LTRIM%20%26%20TRIM%20Functions.pdf)
+[15. String Functions (RTRIM, LTRIM, TRIM) in SQL Server](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2014.%20RTRIM%2C%20LTRIM%20%26%20TRIM%20Functions.pdf)
 
 [16. UNION in SQL Server / MySQL](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2015.%20UNION.pdf)
 
@@ -56,7 +56,7 @@ There are 25 SQL lessons available, with most lessons applicable to both SQL Ser
 
 [27. Date Time in MySQL](https://github.com/lindulamaratunga/Learn-SQL-in-5-Days/blob/main/Lesson%2027.%20DATE%20and%20TIME%20in%20MySQL.pdf)
 
-[28. String Functions (LOWER, UPPER, LEFT & RIGHT) in SQL Server](https://github.com/lindulamaratunga/Learn-SQL-in-5-Days/blob/main/Lesson%2028.%20String%20Functions(LOWER%2C%20UPPER%2C%20LEFT%20%26%20RIGHT)%20in%20SQL.pdf)
+[28. String Functions (LOWER, UPPER, LEFT, RIGHT) in SQL Server](https://github.com/lindulamaratunga/Learn-SQL-in-5-Days/blob/main/Lesson%2028.%20String%20Functions(LOWER%2C%20UPPER%2C%20LEFT%20%26%20RIGHT)%20in%20SQL.pdf)
 
 References for Database Ranking
 
